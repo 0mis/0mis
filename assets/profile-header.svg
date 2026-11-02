@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="264" viewBox="0 0 1200 264" role="img" aria-labelledby="title desc">
+<title id="title">0mis — AI-assisted software, automation and testing</title>
+<desc id="desc">Independent software projects with inspectable source, tests and documented results.</desc>
+<rect width="1200" height="264" rx="16" fill="#0d1726"/>
+<path d="M0 222H1200" stroke="#203247"/>
+<rect x="38" y="42" width="5" height="149" rx="2" fill="#53d4c1"/>
+<text x="65" y="65" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="3" fill="#8ea7bf">0MIS / INDEPENDENT PROJECTS</text>
+<text x="65" y="125" font-family="Arial,Helvetica,sans-serif" font-size="49" font-weight="700" fill="#f3f7fc">AI-assisted software</text>
+<text x="67" y="168" font-family="Arial,Helvetica,sans-serif" font-size="23" fill="#adc0d4">Automation, experiments, and careful verification.</text>
+<text x="65" y="246" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#90a5ba">SOURCE + TESTS + METHODS + LIMITS</text>
+<g fill="none" stroke="#35556d" stroke-width="2"><path d="M924 72H1046V172H924Z"/><path d="M1046 122H1103"/><path d="M979 72V48H1104V122"/></g>
+<circle cx="924" cy="72" r="7" fill="#53d4c1"/><circle cx="1046" cy="122" r="7" fill="#53d4c1"/><circle cx="924" cy="172" r="7" fill="#53d4c1"/><circle cx="1104" cy="48" r="7" fill="#6a94c8"/>
+<text x="943" y="106" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#a8c3d7">BUILD</text><text x="941" y="151" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#a8c3d7">CHECK</text>
+</svg>
